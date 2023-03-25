@@ -51,15 +51,14 @@ The main points that I took from this article to implement good code review prac
 
 - **Ask Questions:** How does this method work? If requirements changes, what else would have to change? How could we make this more maintainable?
 
-**- Compliment/reinforce good practices:** One of the most crucial parts of code reviews is to reward developers for growth and effort.
+- **Compliment/reinforce good practices:** One of the most crucial parts of code reviews is to reward developers for growth and effort.
 
-**- Discuss in person for more detailed points:** If I'm discussing a point and it goes back and forth, I'll often pick it up in person and finish out the discussion.
+- **Discuss in person for more detailed points:** If I'm discussing a point and it goes back and forth, I'll often pick it up in person and finish out the discussion.
 
-**Explain reasoning:** It's best to both ask if there's a better alternative and justify why I/he/she think it's worth fixing.
+- **Explain reasoning:** It's best to both ask if there's a better alternative and justify why I/he/she think it's worth fixing.
 
-**- Suggest importance of fixes:** Clarifying if an item is important to fix before it can be considered done is useful for both the reviewer and the reviewee. It makes the results of a reviewer clear and actionable.
+- **Suggest importance of fixes:** Clarifying if an item is important to fix before it can be considered done is useful for both the reviewer and the reviewee. It makes the results of a reviewer clear and actionable.
 
 For more information about the handling of code reviews visit: 
 
 [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices)
-
