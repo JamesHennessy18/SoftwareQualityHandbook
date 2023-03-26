@@ -5,7 +5,7 @@
 - Tracking errors and spotting early bugs is the main objective of Code Review, which also aims to maintain the cleanest source code possible.
 - This process is an essential part of the DevOps cycle and is usually conducted before the QA testing.
 
-![CodeReviewsImage](codeReviewsImage.jpg)
+![CodeReviewsImage](pics/codeReviewsImage.jpg)
 
 
 # Why should you always Code Review?
@@ -83,7 +83,7 @@ In a blog by Richard Bellairs he goes through 5 essential tips to implement a su
 - Give feedback that helps(Not hurts)
 
 
-![CodeReviewPracticestext](CodeReviewPractices.png)
+![CodeReviewPracticestext](pics/CodeReviewPractices.png)
 
 
 For more information about this article visit:
@@ -118,7 +118,7 @@ For more information about what each of these approaches do use the below link t
 
 
 
-![Alt text](CodeReviewFlowChart.png)
+![Alt text](pics/CodeReviewFlowChart.png)
 
 
 
