@@ -67,6 +67,11 @@ Techniques:
  - Do not underestimate the tasks at hand
  - Leave the ego at home! 
 
+ [Challenges with Estimations in Agile projects | David Tzemach](https://www.agilequalitymadeeasy.com/post/challenges-with-estimations-in-agile-projects-david-tzemach)
+
+ Following the above takeaways, I have found a very interesting forum that I would like to share. The question is raised that in this persons personal experience, her team only estimates stories, not estimating tasks and bugs, is this the best practice?. The reason i mention this forum is because of a specific reply from a Thomas Owens. He says "The only important opinion is that of the team" and that "Estimates aren't for use by stakeholders outside of the team". What I have taken from this is that if you think your team should/shouldnt be estimating certain factors like bugs/smaller tasks that dont effect the customer. Raise this in the scrum meeting. Task estimation is very situational. As you can see their is a common theme in this section of the handbook. "Every team members opinion matters". To ensure the highest level of software quality, factors even as small as adding in extra time in the estimation for bugs can go along way for successful, on time delivery of the software.
+
+ [To read more on this forum and see other responses to the question raised](https://www.scrum.org/forum/scrum-forum/58252/should-we-estimate-our-tasks)
 
  Is It Worth Estimating the Tasks of Scrum Teams in Hours?
 
@@ -82,4 +87,18 @@ The reason this article is mentioned as it essential to get the timing of a proj
 
 [Is It Worth Estimating the Tasks of Scrum Teams in Hours?](https://maddevs.io/blog/task-estimation-in-hours-for-scrum-teams/)
 
+On the other hand, some prefer estimating in story points. Mike McEwen says he prefers story points to hours, "Story points are approximate and relative estimates that a team makes together about the effort required to complete a story." He then goes into detail about the best practices for Estimating Agile Projects With Story Points.
+
+- Use non-consecutive point values
+- Stabilize the team
+- Get inputs from everyone
+- Make informed estimates
+- Make informed estimates
+
+To read more on these practices, check out this article. 
+[6 Best Practices for Estimating Agile Projects With Story Points](https://www.linkedin.com/pulse/6-best-practices-estimating-agile-projects-story-points-mike-mcewen/)
+
+![Check out this diagram](hoursVSpoints.gif)
+
+The reason I mention this article from Mike and also to conclude this section of the handbook, Is that Task estimation in scrum should not be a set and stone system you follow. Task estimation will differ depending on the project and also the team member and how they work best. For our team to have success and improve in the future on our task estimation, Refer to this section of our handbook.
 
