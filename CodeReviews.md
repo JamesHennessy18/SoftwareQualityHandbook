@@ -62,3 +62,67 @@ The main points that I took from this article to implement good code review prac
 For more information about the handling of code reviews visit: 
 
 [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices)
+
+
+# How to run a Code Review?
+
+In a coding environment running code reviews and making sure everything has been properly reviewed can be a massive challenge.
+
+In a blog by Richard Bellairs he goes through 5 essential tips to implement a successful code review which are:
+
+
+
+- What to look for in a Code(Structure, Style, Performance, Test coverage and Design)
+
+- Build and Test - Before Code Review
+
+- Don't review code for longer than 60 minutes
+
+- Check no more than 400 lines at a time
+
+- Give feedback that helps(Not hurts)
+
+
+![CodeReviewPracticestext](CodeReviewPractices.png)
+
+
+For more information about this article visit:
+
+[5 Essential code review practices ](https://www.perforce.com/blog/qac/9-best-practices-for-code-review)
+
+
+
+
+# Approaches to Code Reviews
+
+- In personal article Jason Cohen explains how only 1% of their code is inspected and how they want to increase it to 7% within the entire CTO.
+
+The best approaches to code review are:
+
+- **Over the shoulder**
+
+- **Email pass-around** 
+
+- **Paire programming** 
+
+- **Tool-assisted** 
+
+For more information about what each of these approaches do use the below link to find out:
+
+[Best code review approaches ](https://www.methodsandtools.com/archive/archive.php?id=66)
+
+
+
+
+
+
+
+![Alt text](CodeReviewFlowChart.png)
+
+
+
+
+
+
+To conclude this section of the handbook it is essential that developers spend time to code review their work. Code review not only helps developers learn the code base but it helps both junior and senior developers learn new technologies and techniques for the future.
+
