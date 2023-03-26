@@ -93,6 +93,7 @@ For more information about this article visit:
 
 
 
+
 # Approaches to Code Reviews
 
 - In personal article Jason Cohen explains how only 1% of their code is inspected and how they want to increase it to 7% within the entire CTO.
@@ -125,4 +126,9 @@ For more information about what each of these approaches do use the below link t
 
 
 To conclude this section of the handbook it is essential that developers spend time to code review their work. Code review not only helps developers learn the code base but it helps both junior and senior developers learn new technologies and techniques for the future.
+
+
+
+
+
 
