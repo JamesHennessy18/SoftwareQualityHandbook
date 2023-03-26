@@ -3,7 +3,7 @@
 **Software Quality**
 Software quality refers to the overall characteristics of developed software that make it fit for purpose, such as reliability,flexibility, usability, efficiency, testability, and protability. Software quality is determined by how well the software meets the requirements and needs of the users, and how well it performs in the intended environment. The software must meet customer or user needs and expectations.
 
-![Software Quality](SoftwareQuality.webp)
+![Software Quality](pics/SoftwareQuality.webp)
 
 **What is Software Quality Assurance**
 
@@ -20,7 +20,7 @@ ISO/IEC 25010 is a standard that provides a framework for software quality requi
 
 Take a look: 
 
-![ISO/IEC 25010](SoftwareQualityProduct.png)
+![ISO/IEC 25010](pics/SoftwareQualityProduct.png)
 
 **Our Goals**
  The goal of the handbook is to establish best practices for the team to follow and create a more consistent approach to software development.
@@ -98,7 +98,7 @@ On the other hand, some prefer estimating in story points. Mike McEwen says he p
 To read more on these practices, check out this article. 
 [6 Best Practices for Estimating Agile Projects With Story Points](https://www.linkedin.com/pulse/6-best-practices-estimating-agile-projects-story-points-mike-mcewen/)
 
-![Check out this diagram](hoursVSpoints.gif)
+![Check out this diagram](pics/hoursVSpoints.gif)
 
 The reason I mention this article from Mike and also to conclude this section of the handbook, Is that Task estimation in scrum should not be a set and stone system you follow. Task estimation will differ depending on the project and also the team member and how they work best. For our team to have success and improve in the future on our task estimation, Refer to this section of our handbook.
 
