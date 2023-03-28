@@ -15,13 +15,13 @@ Here is how we broke up the work
 
 James
 - I will research and find two quality resources on both Scrum and Code Reviews and one quality resource on Dev ops.
-- Although I will work on all three topics, I will do the bulk of the work for "Task estimimation in scrum".
+- Although I will work on all three topics, I will do the bulk of the work for "Task estimation in scrum".
 
 Zeynep
 - Zeynep will research and find two quality resources on both Scrum and Dev ops and one quality resource on Code reviews.
 - Zeynep will also work on all three topics but will do the bulk of the work for "Dev ops".
 
-Frankyln
+Franklyn
 - Franklyn will research and find two quality resources on both Dev ops and Code Reviews and one quality resource on scrum.
 - Franklyn will also work on all three topics but will do the bulk of the work for "Code Reviews".
 

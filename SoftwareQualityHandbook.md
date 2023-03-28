@@ -11,10 +11,10 @@ Software quality assurance is the process that ensures that software products an
 
 **Importance of Software Quality Assurance**
 
-- It is important to ensure customer satisfaction with the end product in the hopes that customers will continue to use the software and also reccomend it to others.
+- It is important to ensure customer satisfaction with the end product in the hopes that customers will continue to use the software and also recommend it to others.
 - Preventing defects early in the development process reduces the cost of fixing them later. With solid SQA, you can catch these defects early before they become larger issues.
-- Procductivity is majorly improved when these issues are caught early, it can reduce the time spent and effort needed to fix the issues further down the lin.
-- Reducing risk is a major benifit to high standard software quality. Bad software quality can lead to security breaches and loss in data. SQA helps prevent these risks.
+- Productivity is majorly improved when these issues are caught early, it can reduce the time spent and effort needed to fix the issues further down the lin.
+- Reducing risk is a major benefit to high standard software quality. Bad software quality can lead to security breaches and loss in data. SQA helps prevent these risks.
 
 ISO/IEC 25010 is a standard that provides a framework for software quality requirements and evaluation. It is attempt to define quality that provides guidelines for software development.
 

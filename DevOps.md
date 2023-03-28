@@ -8,7 +8,7 @@ The process of delivering applications and software services quickly and efficie
 
 Additionally, it reduces the risk factor through continuous delivery and early feedback from stakeholders and end users.
 
-![WhatIsDevOps](devops-whatisdevops.png)
+![WhatIsDevOps](pics/devops-whatisdevops.png)
 
 
 
@@ -22,7 +22,7 @@ To respond rapidly to customer requests and address problems and bugs, people wi
 
 
 
-![Alt text](devops-devopsworks.png)
+![Alt text](pics/devops-devopsworks.png)
 
 
 
