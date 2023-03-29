@@ -88,7 +88,7 @@ Techniques:
 The reason this article is mentioned as it essential to get the timing of a project as accurate as possible. By estimating tasks correctly, the team can ensure that they have enough time and resources to complete each task to a high standard of quality. Use this article to fall back on when initially deciding how you are going to estimate tasks in the planning process. 
 
 [Is It Worth Estimating the Tasks of Scrum Teams in Hours?](https://maddevs.io/blog/task-estimation-in-hours-for-scrum-teams/)
-
+![](pics/01_Image_Estimation-Matrix-1-scaled.jpg)
 On the other hand, some prefer estimating in story points. Mike McEwen says he prefers story points to hours, "Story points are approximate and relative estimates that a team makes together about the effort required to complete a story." He then goes into detail about the best practices for Estimating Agile Projects With Story Points.
 
 - Use non-consecutive point values
@@ -111,13 +111,17 @@ The reason I mention this article from Mike and also to conclude this section of
 - Tracking errors and spotting early bugs is the main objective of Code Review, which also aims to maintain the cleanest source code possible.
 - This process is an essential part of the DevOps cycle and is usually conducted before the QA testing.
 
+- Code reviews are important to ensure security.
+- Code reviews are approved by the teams and keeps the code consistent moving forward.
+- Pre-release corrections are necessary and are accomplished through code reviews.
+
 ![CodeReviewsImage](pics/codeReviewsImage.jpg)
 
 **Why should you always Code Review?**
 
 - Lets look at some of the advantages of Code Review:
 - Early detection of bugs: Reviewing code aids detecting bugs early in the application development process. During the software development process, it is also cheaper to rectify issues in th earlier stages. As a result, code review decreases the overall cost of the software development process.
-- Promotes agile development: Agile tesing requires on-time, high quality service delivery. Implementing the code review stage will assist in creating a high-quality product that is free of serious errors and complies with industry standards.
+- Promotes agile development: Agile testing requires on-time, high quality service delivery. Implementing the code review stage will assist in creating a high-quality product that is free of serious errors and complies with industry standards.
 - Tutoring Newbies: If a junior developer has written the software development code, the senior managers should ultimately spend some time reviewing it and providing constructive feedback. The new employee will thus be familiar with the company's standards.
 - Team building Activity: The code reviewing activity and feedback session are carried out by sharing information between the senior and junior employees. Employees can learn about their strenghts, areas for improvement etc. through the exchange of constructive criticism in this manner.
 
@@ -126,7 +130,7 @@ For more information about the importance of Code Reviews visit this link here: 
 **Code review problems:**
 
 - Issues with code reviews can involve not telling the truth, Ego, wrong focus or even rushing it which eventually leads to inconsistencies.
-- John Sonmez reveals based on her past experiences that the most effective code review approach is Paired Programming! Paired programming is like just-in-time code reviews. It resolves many of these issues by obtaining a common goal and creating a joint ownership in the code.
+- John Sonmez reveals based on his past experiences that the most effective code review approach is Paired Programming! Paired programming is like just-in-time code reviews. It resolves many of these issues by obtaining a common goal and creating a joint ownership in the code.
 
 Overall the main points that I took from this article were that as you pair up with different members of your team:
 
@@ -181,7 +185,7 @@ The best approaches to code review are:
 
 - Over the shoulder
 - Email pass-around
-- Paire programming 
+- Paired programming 
 - Tool-assisted 
 
 For more information about what each of these approaches do use the below link to find out:
@@ -192,7 +196,7 @@ For more information about what each of these approaches do use the below link t
 
 To conclude this section of the handbook it is essential that developers spend time to code review their work. Code review not only helps developers learn the code base but it helps both junior and senior developers learn new technologies and techniques for the future.
 
-**Dev Ops**
+**DevOps**
 
 **What is DevOps?**
 
@@ -224,6 +228,16 @@ Here are the following main benefits of DevOps practices:
 For more information about DevOps in general and how they work please visit:
 
 [DevOps introduction and how they work ](https://www.dotnettricks.com/learn/devops/what-is-devops-and-devops-advantages)
+
+**Key Principles of DevOps:**
+
+- **Collaboration:** DevOps emphasizes collaboration between teams, breaking down silos between development, operations, and other teams within the organization.
+
+- **Continuous Integration and Continuous Delivery (CI/CD):** DevOps encourages the use of CI/CD pipelines, which automate the build, testing, and deployment process, ensuring faster delivery of software updates.
+
+- **Infrastructure as Code (IaC):** IaC enables teams to define and manage infrastructure and configuration as code, making it easier to maintain consistency across environments.
+-
+- **Monitoring and Feedback:** DevOps promotes continuous monitoring and feedback loops, allowing teams to quickly detect and respond to issues.
 
 
 **Challenges to DevOps**

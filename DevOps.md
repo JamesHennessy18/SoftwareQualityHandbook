@@ -52,6 +52,7 @@ For more information about DevOps in general and how they work please visit:
 - **Continuous Integration and Continuous Delivery (CI/CD):** DevOps encourages the use of CI/CD pipelines, which automate the build, testing, and deployment process, ensuring faster delivery of software updates.
 
 - **Infrastructure as Code (IaC):** IaC enables teams to define and manage infrastructure and configuration as code, making it easier to maintain consistency across environments.
+- 
 - **Monitoring and Feedback:** DevOps promotes continuous monitoring and feedback loops, allowing teams to quickly detect and respond to issues.
 
 
