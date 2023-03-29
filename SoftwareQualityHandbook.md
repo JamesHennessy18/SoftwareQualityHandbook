@@ -135,6 +135,11 @@ Overall the main points that I took from this article were that as you pair up w
 3. Main focus will be the problem itself and not conventions.
 4. More analysis will be conducted in general and members can delve deeply into the code.
 
+Even though paired programming can be feasible in most cases, it comes with disadvantages.
+- It can be expensive to set up paired programming
+- In some cases it might slow down the project, especially if the developers are not willing to take part
+- Experience difference between programmers can cause workload to be distributed unevenly
+
 Use this article below if you want to find out how to implement effective paired programming in your teams:
 
 [Don't snub the code review](https://simpleprogrammer.com/dont-snub-the-code-review/?utm_content=cmp-true)
@@ -207,6 +212,20 @@ Additionally, it reduces the risk factor through continuous delivery and early f
 Starting from design and development to testing automation and from continuous integration to continuous delivery, the team collaborates to accomplish the desired goal.
 To respond rapidly to customer requests and address problems and bugs, people with both development and operations skill sets collaborate and use a variety of CI-CD and monitoring solutions.
 
+ **Plan:** The first step in DevOps is planning. This involves breaking down the project into smaller tasks and setting goals and timelines for each one.
+
+- **Code:** The second step is coding, where developers write and test code in small, incremental changes. This is done using agile development methodologies.
+
+- **Build:** The third step involves building, where developers compile the code into executable files and packages.
+
+- **Test:** In the fourth step, testing, various types of automated and manual tests are performed on the code to identify and fix any issues.
+
+- **Release:** In the fifth step, the code is released into production or staged environments for deployment.
+
+- **Deploy:** In the sixth step, the code is deployed to production or staging environments using automated deployment tools.
+
+- **Operate:** The seventh and final step is to monitor and operate the system in production. This includes monitoring performance and availability, updating the system, and responding to any issues that arise.
+
 ![Alt text](pics/devops-devopsworks.png)
 
 
@@ -225,6 +244,15 @@ For more information about DevOps in general and how they work please visit:
 
 [DevOps introduction and how they work ](https://www.dotnettricks.com/learn/devops/what-is-devops-and-devops-advantages)
 
+**Key Principles of DevOps:**
+
+- **Collaboration:** DevOps emphasizes collaboration between teams, breaking down silos between development, operations, and other teams within the organization.
+
+- **Continuous Integration and Continuous Delivery (CI/CD):** DevOps encourages the use of CI/CD pipelines, which automate the build, testing, and deployment process, ensuring faster delivery of software updates.
+
+- **Infrastructure as Code (IaC):** IaC enables teams to define and manage infrastructure and configuration as code, making it easier to maintain consistency across environments.
+- **Monitoring and Feedback:** DevOps promotes continuous monitoring and feedback loops, allowing teams to quickly detect and respond to issues.
+
 
 **Challenges to DevOps**
 
@@ -241,6 +269,11 @@ Progress undoubtedly brings challenges and we will explore challenges to DevOps 
 4. What should our smoke tests really do?
 
 - Too much focus on tools: When implementing DevOps your team members are the most crucial component. Confusion will arise if they are not trained on the newly implemented tools and processes, which will hinder the adoption of the DevOps approaches.
+- Resistance to change: One of the main challenges of DevOps is resistance to change from team members who are used to working in silos. DevOps requires cross-functional collaboration and a culture of continuous improvement, which can be difficult for some teams to adapt to.
+
+- Security and compliance: With DevOps, teams are responsible for the entire application lifecycle, including security and compliance. Ensuring that applications are secure and compliant can be challenging, particularly in highly regulated industries.
+
+- Cultural barriers: DevOps requires a shift in culture, from a traditional siloed approach to a more collaborative and agile one. This shift can be challenging for organizations with deeply ingrained cultural barriers.
 
 If you would like to visit more challenges to DevOps within the technology industry please visit this link:
 
