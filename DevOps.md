@@ -44,7 +44,7 @@ For more information about DevOps in general and how they work please visit:
 
 [DevOps introduction and how they work ](https://www.dotnettricks.com/learn/devops/what-is-devops-and-devops-advantages)
 
-
+![](pics/dev_ops_graphic.jpg)
 **Key Principles of DevOps:**
 
 - **Collaboration:** DevOps emphasizes collaboration between teams, breaking down silos between development, operations, and other teams within the organization.
@@ -84,7 +84,7 @@ If you would like to visit more challenges to DevOps within the technology indus
 
 # Conclusion:
 
-This handook provides a detailed analysis on the topics task estimation in scrum, code reviews and DevOps along with challenges that could potentially arise to each of them.
+This handbook provides a detailed analysis on the topics task estimation in scrum, code reviews and DevOps along with challenges that could potentially arise to each of them.
 
 Code reviews have thought us that it can be extremely beneficial and enjoyable when done correctly using one of the appropriate techniques.
 

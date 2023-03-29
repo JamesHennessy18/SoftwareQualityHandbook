@@ -35,6 +35,7 @@ Take a look:
  When in doubt of anything related to Software Quality, we advise Software Engineers to refer to our Software Quality Handbook.
 
  Lets Begin:
+ 
 
 **Task Estimation In Scrum**
 
@@ -88,6 +89,8 @@ Techniques:
 The reason this article is mentioned as it essential to get the timing of a project as accurate as possible. By estimating tasks correctly, the team can ensure that they have enough time and resources to complete each task to a high standard of quality. Use this article to fall back on when initially deciding how you are going to estimate tasks in the planning process. 
 
 [Is It Worth Estimating the Tasks of Scrum Teams in Hours?](https://maddevs.io/blog/task-estimation-in-hours-for-scrum-teams/)
+
+![](pics/01_Image_Estimation-Matrix-1-scaled.jpg)
 
 On the other hand, some prefer estimating in story points. Mike McEwen says he prefers story points to hours, "Story points are approximate and relative estimates that a team makes together about the effort required to complete a story." He then goes into detail about the best practices for Estimating Agile Projects With Story Points.
 
