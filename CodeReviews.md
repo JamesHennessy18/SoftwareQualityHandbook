@@ -14,7 +14,7 @@
 
 - Early detection of bugs: Reviewing code aids detecting bugs early in the application development process. During the software development process, it is also cheaper to rectify issues in th earlier stages. As a result, code review decreases the overall cost of the software development process.
 
-- Promotes agile development: Agile tesing requires on-time, high quality service delivery. Implementing the code review stage will assist in creating a high-quality product that is free of serious errors and complies with industry standards.
+- Promotes agile development: Agile testing requires on-time, high quality service delivery. Implementing the code review stage will assist in creating a high-quality product that is free of serious errors and complies with industry standards.
 
 - Tutoring Newbies: If a junior developer has written the software development code, the senior managers should ultimately spend some time reviewing it and providing constructive feedback. The new employee will thus be familiar with the company's standards.
 

@@ -26,7 +26,7 @@ Franklyn
 - Franklyn will also work on all three topics but will do the bulk of the work for "Code Reviews".
 
 Things for our group to keep in mind:
-1. Try aim for atleast one diagram per topic.
+1. Try aim for at least one diagram per topic.
 2. Ensure to notify each group member of any pull requests made (Update Via team whatsapp group)
 3. Work at a steady pace to have work done a few days before deadline to give the team a chance to review and make any neccessary changes.
 
