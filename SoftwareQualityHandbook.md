@@ -215,13 +215,13 @@ Starting from design and development to testing automation and from continuous i
 
 To respond rapidly to customer requests and address problems and bugs, people with both development and operations skill sets collaborate and use a variety of CI-CD and monitoring solutions.
 
- **Plan:**
-- **Code:**
-- **Build:**
-- **Test:**
-- **Release:**
-- **Deploy:**
-- **Operate:**
+ **Plan**
+- **Code**
+- **Build**
+- **Test**
+- **Release**
+- **Deploy**
+- **Operate**
 
 ![Alt text](pics/devops-devopsworks.png)
 
