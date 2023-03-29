@@ -201,8 +201,10 @@ To conclude this section of the handbook it is essential that developers spend t
 
 **What is DevOps?**
 
-DevOps which is known for Development and Operation's collaboration is a union of working products, working processes and working people.
+DevOps (Development and Operation's collaboration) is a union of working products, working processes and working people.
+
 The process of delivering applications and software services quickly and efficiently is accelerated by DevOps so that businesses can comprehend and adopt the market as soon as possible.
+
 Additionally, it reduces the risk factor through continuous delivery and early feedback from stakeholders and end users.
 
 ![WhatIsDevOps](pics/devops-whatisdevops.png)
@@ -210,25 +212,18 @@ Additionally, it reduces the risk factor through continuous delivery and early f
 **How DevOps works?**
 
 Starting from design and development to testing automation and from continuous integration to continuous delivery, the team collaborates to accomplish the desired goal.
+
 To respond rapidly to customer requests and address problems and bugs, people with both development and operations skill sets collaborate and use a variety of CI-CD and monitoring solutions.
 
- **Plan:** The first step in DevOps is planning. This involves breaking down the project into smaller tasks and setting goals and timelines for each one.
-
-- **Code:** The second step is coding, where developers write and test code in small, incremental changes. This is done using agile development methodologies.
-
-- **Build:** The third step involves building, where developers compile the code into executable files and packages.
-
-- **Test:** In the fourth step, testing, various types of automated and manual tests are performed on the code to identify and fix any issues.
-
-- **Release:** In the fifth step, the code is released into production or staged environments for deployment.
-
-- **Deploy:** In the sixth step, the code is deployed to production or staging environments using automated deployment tools.
-
-- **Operate:** The seventh and final step is to monitor and operate the system in production. This includes monitoring performance and availability, updating the system, and responding to any issues that arise.
+ **Plan:**
+- **Code:**
+- **Build:**
+- **Test:**
+- **Release:**
+- **Deploy:**
+- **Operate:**
 
 ![Alt text](pics/devops-devopsworks.png)
-
-
 
 **Benefits of DevOps**
 
@@ -246,17 +241,15 @@ For more information about DevOps in general and how they work please visit:
 
 **Key Principles of DevOps:**
 
-- **Collaboration:** DevOps emphasizes collaboration between teams, breaking down silos between development, operations, and other teams within the organization.
-
+- **Collaboration:** DevOps emphasises collaboration between teams, breaking down silos between development, operations, and other teams within the organisation.
 - **Continuous Integration and Continuous Delivery (CI/CD):** DevOps encourages the use of CI/CD pipelines, which automate the build, testing, and deployment process, ensuring faster delivery of software updates.
-
 - **Infrastructure as Code (IaC):** IaC enables teams to define and manage infrastructure and configuration as code, making it easier to maintain consistency across environments.
-- **Monitoring and Feedback:** DevOps promotes continuous monitoring and feedback loops, allowing teams to quickly detect and respond to issues.
-
+- **Monitoring and Feedback:** Continuous monitoring and feedback loops, allowing teams to quickly detect and respond to issues.
 
 **Challenges to DevOps**
 
 Nowadays many software and IT operations teams have adopted DevOps procedures into their work cultures to help them evolve into a quicker and more innovative version of theirselves.
+
 Progress undoubtedly brings challenges and we will explore challenges to DevOps according to a blog by Ruchir Sanghavi.
 
 - Overcoming the dev versus ops mentality: Understanding the roles and responsibilities of where dev stops and ops currently begins, and how these can best be integrated together, is a great starting point for any company and this is frequently the first obstacle a company has when adopting DevOps principles.
@@ -268,19 +261,19 @@ Progress undoubtedly brings challenges and we will explore challenges to DevOps 
 3. What does a good end to end test look like for our code base?
 4. What should our smoke tests really do?
 
-- Too much focus on tools: When implementing DevOps your team members are the most crucial component. Confusion will arise if they are not trained on the newly implemented tools and processes, which will hinder the adoption of the DevOps approaches.
-- Resistance to change: One of the main challenges of DevOps is resistance to change from team members who are used to working in silos. DevOps requires cross-functional collaboration and a culture of continuous improvement, which can be difficult for some teams to adapt to.
 
-- Security and compliance: With DevOps, teams are responsible for the entire application lifecycle, including security and compliance. Ensuring that applications are secure and compliant can be challenging, particularly in highly regulated industries.
 
-- Cultural barriers: DevOps requires a shift in culture, from a traditional siloed approach to a more collaborative and agile one. This shift can be challenging for organizations with deeply ingrained cultural barriers.
+- Too much/little focus on tools: If team members are not trained on the newly implemented tools and processes, it hinder the adoption of the DevOps approaches.
+
+Resistance to change: Resistance to change from team members who are used to working in silos. DevOps requires cross-functional collaboration and a culture of continuous improvement, which can be difficult for some teams. A shift in culture, from a traditional siloed approach to a more collaborative and agile onecan be challenging for organisations with deeply ingrained cultural barriers.
+
+- Security and compliance: Teams are responsible for the entire lifecycle. Ensuring that applications are secure and compliant in teams can be challenging, particularly in highly regulated industries.
 
 If you would like to visit more challenges to DevOps within the technology industry please visit this link:
 
 [DevOps Challenges](https://www.contino.io/insights/5-challenges-to-devops-adoption-and-how-to-overcome-them)
 
-
-Keeping in mind that are goal is to develop quality software. Lets take a look at how DevOps can play an effect on the quality of our software. DevOps can have a significant impact on software quality. By automating the testing and deployment processes, DevOps helps us to ensure that the software is thoroughly tested and that any issues are identified and fixed as quickly as possible. Lets not forget to mention that DevOps teams generally use a continuous feedback loop to gather data on how software is performing in production which can then be used to improve software quality by identifying areas where there are performance issues, bugs, or other problems.
+DevOps can have a significant impact on software quality. By automating the testing and deployment processes, DevOps helps us to ensure that the software is thoroughly tested and that any issues are identified and fixed as quickly as possible. DevOps teams generally use a continuous feedback loop to gather data on how software is performing in production which can then be used to improve software quality by identifying areas where there are performance issues, bugs, or other problems.
 
 An Blog post by a Noam Kachko who is a software developer for 8+ years tells us how 1 year of DevOps experience changed her life as a developer.
 
@@ -294,7 +287,9 @@ Above are her main practices she does differently after her experience in a DevO
 
 [Read more on Noams personal experience](https://techbeacon.com/app-dev-testing/how-one-year-devops-changed-my-life-developer)
 
-Lets talk about how Software Quality effects DevOps. I found an article i thought put it perfect. "If DevOps methodology is the bridge between development and operations, QA is the support beam that makes it safe to cross". The goal of DevOps is to increase the speed, quality, and reliability of software delivery while reducing the time to market and the risk of production failures. Exactly what Quality Assurance is working towards. The link between the two is very important to understand. Here are three reasons why not to Underestimate The Role Of QA In DevOps 
+"If DevOps methodology is the bridge between development and operations, QA is the support beam that makes it safe to cross". The goal of DevOps is to increase the speed, quality, and reliability of software delivery while reducing the time to market and the risk of production failures. Exactly what Quality Assurance is working towards. The link between the two is very important to understand. 
+
+The Role Of QA In DevOps:
 
 1. A Fresh and Necessary Perspective on Builds
 2. Faster Delivery with Parallel Testing
@@ -304,7 +299,7 @@ To read more on this:
 
 [Don't Underestimate The Role Of QA In DevOps For These 3 Reasons](https://www.copado.com/devops-hub/blog/dont-underestimate-the-role-of-qa-in-devops-for-these-3-reasons-crt)
 
-The above article also mentions "DevOps should help eliminate misunderstandings between development and QA." DevOps is almost like a mindset that focuses on communication and collaboration between developers and testers. Another interesting article quotes similar "The very foundation of DevOps is built on eliminating barriers between developer and QA roles." The reason we chose to include DevOps in are Software Quality handbook as it is essential are team knows the relationship between the two to ensure the best quality software for our customers. This article goes into great detail on the relationship between the two. Please read:
+"DevOps should help eliminate misunderstandings between development and QA." DevOps is almost like a mindset that focuses on communication and collaboration between developers and testers. Another interesting article quotes similar "The very foundation of DevOps is built on eliminating barriers between developer and QA roles." The reason we chose to include DevOps in are Software Quality handbook as it is essential are team knows the relationship between the two to ensure the best quality software for our customers. This article goes into great detail on the relationship between the two:
 
 [The Role of QA in DevOps](https://www.browserstack.com/guide/role-of-qa-in-devops)
 
